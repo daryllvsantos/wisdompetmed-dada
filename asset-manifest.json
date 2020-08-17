@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wisdompetmed-dada/static/css/main.963435ea.chunk.css",
+    "main.js": "/wisdompetmed-dada/static/js/main.8ad28013.chunk.js",
+    "main.js.map": "/wisdompetmed-dada/static/js/main.8ad28013.chunk.js.map",
+    "runtime-main.js": "/wisdompetmed-dada/static/js/runtime-main.db631ce3.js",
+    "runtime-main.js.map": "/wisdompetmed-dada/static/js/runtime-main.db631ce3.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/wisdompetmed-dada/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.0e674e0a.chunk.js": "/wisdompetmed-dada/static/js/2.0e674e0a.chunk.js",
+    "static/js/2.0e674e0a.chunk.js.map": "/wisdompetmed-dada/static/js/2.0e674e0a.chunk.js.map",
+    "index.html": "/wisdompetmed-dada/index.html",
+    "precache-manifest.e2df5b11971d2e98be90085b7c0bf3a9.js": "/wisdompetmed-dada/precache-manifest.e2df5b11971d2e98be90085b7c0bf3a9.js",
+    "service-worker.js": "/wisdompetmed-dada/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/wisdompetmed-dada/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.963435ea.chunk.css.map": "/wisdompetmed-dada/static/css/main.963435ea.chunk.css.map",
+    "static/js/2.0e674e0a.chunk.js.LICENSE.txt": "/wisdompetmed-dada/static/js/2.0e674e0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db631ce3.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.0e674e0a.chunk.js",
+    "static/css/main.963435ea.chunk.css",
+    "static/js/main.8ad28013.chunk.js"
+  ]
+}
